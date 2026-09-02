@@ -1,0 +1,23 @@
+==================== Shoprite Operating Ratio ====================
+Metric                               2025       2024       2023
+Revenue (Rm)                    256682.00  236328.00  219645.00
+EBIT (Rm)                        14943.00   12662.00   12347.00
+Operating Ratio (%)                 94.18      94.64      94.38
+
+==================== Woolworths Operating Ratio ====================
+Metric                               2025       2024       2023
+Revenue (Rm)                     80243.00   77335.00   72688.00
+EBIT (Rm)                         5050.00    5984.00    6644.00
+Operating Ratio (%)                 93.71      92.26      90.86
+
+==================== Pick n Pay Operating Ratio ====================
+Metric                               2025       2024       2023
+Revenue (Rm)                    122458.00  115367.00  109278.20
+EBIT (Rm)                         1759.00     405.00    3048.00
+Operating Ratio (%)                 98.56      99.65      97.21
+
+==================== Spar Operating Ratio ====================
+Metric                               2025       2024       2023
+Revenue (Rm)                    131457.70  130986.60  146461.00
+EBIT (Rm)                         1983.50    2657.60    2516.70
+Operating Ratio (%)                 98.49      97.97      98.28
